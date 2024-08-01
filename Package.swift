@@ -12,7 +12,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/realm/realm-swift.git", from: "10.39.0"),
-        .package(url: "https://github.com/wickwirew/Runtime.git", from: "2.2.2")
+        .package(url: "https://github.com/wickwirew/Runtime.git", from: "2.2.7")
     ],
     targets: [
         .target(
